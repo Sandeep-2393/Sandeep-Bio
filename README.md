@@ -54,5 +54,5 @@ Automation framework using Python & Selenium
 Mock banking app test automation suite
 
 📞 Let’s Connect:
-📧 Email: [Your Email]
-🔗 LinkedIn: [Your LinkedIn Profile URL]
+📧 Email: Sandeepkb1993@gmail.com
+🔗 LinkedIn:https://www.linkedin.com/in/sandeep-kumar-behera-64334bb3/
